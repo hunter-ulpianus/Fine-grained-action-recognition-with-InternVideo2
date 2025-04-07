@@ -4,6 +4,9 @@ This project extends InternVideo2, a general-purpose vision foundation model, by
 ## Architectural Improvements
 - **ROI Alignment Module**: Enables precise spatial correspondence between visual and textual modalities
 - **Branch-based Feature Fusion**: Implements parallel processing streams with dynamic gating mechanism
+- **Figure 1.** Proposed framework overview  
+![The vision encoder frame and the module added](https://github.com/hunter-ulpianus/Fine-grained-action-recognition-with-InternVideo2/blob/main/pic1.png)  
+
 
 ## Key Innovations
 | Module | Functionality | Performance Gain |
