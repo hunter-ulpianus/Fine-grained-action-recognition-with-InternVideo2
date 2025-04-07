@@ -5,7 +5,7 @@ This project extends InternVideo2, a general-purpose vision foundation model, by
 - **ROI Alignment Module**: Enables precise spatial correspondence between visual and textual modalities
 - **Branch-based Feature Fusion**: Implements parallel processing streams with dynamic gating mechanism
 - **Figure 1.** Proposed framework overview  
-![The vision encoder frame and the module added](./assets/images)  
+![The vision encoder frame and the module added](./assets/images/pic1.png)  
 
 
 ## Key Innovations
